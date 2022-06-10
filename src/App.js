@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import React from 'react';
 import Navbar from './components/Navbar';
 import StoryPanel from './components/StoryPanel';
 import './App.css';

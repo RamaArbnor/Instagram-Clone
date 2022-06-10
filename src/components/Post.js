@@ -1,3 +1,4 @@
+import React from 'react';
 import naruto from "../images/naruto.jpg"
 import '../App.css'
 
@@ -13,7 +14,7 @@ export default function Post() {
                 <img src={naruto} alt='post Image'/>
             </div>
             <div className="postDescription">
-                <p>👍 Liked by <strong>Sasuke</strong> and <strong>69</strong> others.</p>
+                <p><span role="img">👍</span> Liked by <strong>Sasuke</strong> and <strong>69</strong> others.</p>
                 <p><strong>NarutoUzumaki</strong> Qe qitu sa e rreha painin hehe !</p>
             </div>
         </div>
