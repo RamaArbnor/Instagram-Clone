@@ -1,14 +1,17 @@
 import React from 'react';
 import '../App.css'
-import pfp from '../images/download.jfif'
 
-export default function Story() {
+export default function Story(props) {
+    function handleClick(name){
+        console.log("AAA")
+        return <p>AAAAAAAAAAAAAAAAAAAAAA</p>
+    }
     return (
-        <div className='story'>
-            <div className='image'>
-                <img src={pfp} alt='story pic'/>
+        <div className='story' onClick={() => handleClick(props.username)}>
+            <div className='story-image clickable'>
+                <img src={props.pfp} alt='story pic'/>
             </div>
-            <p>rockyBalboa</p>
+            <p>{props.username}</p>
         </div>
     )
 }

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "pfp": "https://staticg.sportskeeda.com/editor/2022/06/48086-16546986843490.png",
+        "username": "NarutoUzumaki",
+        "postImg": "https://cdn.vox-cdn.com/thumbor/UswYUb9Ve-sg9EN1f0KMAkOUizE=/0x0:1280x721/1200x800/filters:focal(544x281:748x485)/cdn.vox-cdn.com/uploads/chorus_image/image/70124512/naruto.0.jpg",
+        "likes": 69,
+        "caption": "Qe qitu e rreha painin hehe !",
+        "commentsShown": false,
+        "liked": false,
+        "comments": [
+            {
+                "user": "Sasuke",
+                "text": "Nice pic old friend"
+            },
+            {
+                "user": "Hinata",
+                "text": "Naruto ku"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "pfp": "https://img2.hulu.com/user/v3/artwork/993d48dc-d507-47cb-8cca-23e6794f6f66?base_image_bucket_name=image_manager&base_image=85ffa941-11d8-41fd-ade1-34b695196102&size=458x687&format=jpeg",
+        "username": "Naruto i Vogel",
+        "postImg": "https://i.pinimg.com/736x/2c/54/44/2c54447cd57454a1608c1db8ce3f338e.jpg",
+        "likes": 154,
+        "caption": "Qe qitu e rreha painin hehe !",
+        "commentsShown": false,
+        "liked": false,
+        "comments": [
+            {
+                "user": "Sasuke",
+                "text": "Nice pic old friend"
+            },
+            {
+                "user": "Hinata",
+                "text": "Naruto ku"
+            }
+        ]
+    }
+]
