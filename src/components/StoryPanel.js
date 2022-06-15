@@ -4,7 +4,7 @@ import '../App.css'
 import data from '../data/stories.js'
 
 
-export default function StoryPanel() {
+export default function StoryPanel(props) {
 
     
 
@@ -14,11 +14,15 @@ export default function StoryPanel() {
                 key={story.id}
                 pfp={story.pfp}
                 username={story.username}
+                img={story.img}
+                handleClick={props.handleClick}
                 
             />
 
         )
     })
+
+    
 
     return (
         <div className='storyPanel'>

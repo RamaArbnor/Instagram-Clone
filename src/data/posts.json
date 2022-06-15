@@ -31,11 +31,31 @@
         "comments": [
             {
                 "user": "Sasuke",
-                "text": "Nice pic old friend"
+                "text": "Narutoooo"
             },
             {
                 "user": "Hinata",
-                "text": "Naruto ku"
+                "text": "h... h.. hello"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "pfp": "https://img2.hulu.com/user/v3/artwork/993d48dc-d507-47cb-8cca-23e6794f6f66?base_image_bucket_name=image_manager&base_image=85ffa941-11d8-41fd-ade1-34b695196102&size=458x687&format=jpeg",
+        "username": "Naruto i Vogel",
+        "postImg": "https://i.pinimg.com/736x/2c/54/44/2c54447cd57454a1608c1db8ce3f338e.jpg",
+        "likes": 154,
+        "caption": "Qe qitu e rreha painin hehe !",
+        "commentsShown": false,
+        "liked": false,
+        "comments": [
+            {
+                "user": "Sasuke",
+                "text": "Narutoooo"
+            },
+            {
+                "user": "Hinata",
+                "text": "h... h.. hello"
             }
         ]
     }
